@@ -1,0 +1,34 @@
+[
+    {
+        "name": "AJA",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json"
+    },
+    {
+        "name": "Cyclorama",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/Cyclorama/index.json"
+    },
+    {
+        "name": "mz.filters",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.filters/index.json"
+    },
+    {
+        "name": "mz.math",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.math/index.json"
+    },
+    {
+        "name": "mz.realitykeyer",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.realitykeyer/index.json"
+    },
+    {
+        "name": "mz.track",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.track/index.json"
+    },
+    {
+        "name": "mz.utilities",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.utilities/index.json"
+    },
+    {
+        "name": "zd.frustum",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/zd.frustum/index.json"
+    }
+]
