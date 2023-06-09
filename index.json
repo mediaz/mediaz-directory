@@ -12,6 +12,10 @@
         "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.utilities/index.json"
     },
     {
+        "name": "AJA",
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json"
+    },
+    {
         "name": "zd.realitykeyer",
         "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.realitykeyer/index.json"
     },
@@ -22,10 +26,6 @@
     {
         "name": "zd.frustum",
         "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.frustum/index.json"
-    },
-    {
-        "name": "AJA",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/AJA/index.json"
     },
     {
         "name": "Cyclorama",
