@@ -13,7 +13,8 @@
     },
     {
         "name": "AJA",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json"
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json",
+        "production_version": "0.1.0.b72"
     },
     {
         "name": "zd.realitykeyer",
