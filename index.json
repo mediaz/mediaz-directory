@@ -1,35 +1,43 @@
 [
     {
         "name": "mz.filters",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.filters/index.json"
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.filters/index.json",
+        "vendor": "MediaZ"
     },
     {
         "name": "mz.math",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.math/index.json"
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.math/index.json",
+        "vendor": "MediaZ"
     },
     {
         "name": "mz.utilities",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.utilities/index.json"
+        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.utilities/index.json",
+        "vendor": "MediaZ"
     },
     {
         "name": "AJA",
         "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json",
-        "production_version": "0.1.0.b72"
+        "production_version": "0.1.0.b72",
+        "vendor": "MediaZ"
     },
     {
         "name": "zd.realitykeyer",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.realitykeyer/index.json"
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.realitykeyer/index.json",
+        "vendor": "Zero Density"
     },
     {
         "name": "zd.track",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.track/index.json"
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.track/index.json",
+        "vendor": "Zero Density"
     },
     {
         "name": "zd.frustum",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.frustum/index.json"
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.frustum/index.json",
+        "vendor": "Zero Density"
     },
     {
         "name": "Cyclorama",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/Cyclorama/index.json"
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/Cyclorama/index.json",
+        "vendor": "Zero Density"
     }
 ]
