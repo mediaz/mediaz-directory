@@ -31,8 +31,8 @@
         "vendor": "Zero Density"
     },
     {
-        "name": "zd.frustum",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.frustum/index.json",
+        "name": "zd.lens",
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.lens/index.json",
         "vendor": "Zero Density"
     },
     {
