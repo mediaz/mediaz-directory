@@ -36,8 +36,13 @@
         "vendor": "Zero Density"
     },
     {
-        "name": "Cyclorama",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/Cyclorama/index.json",
+        "name": "zd.cyclorama",
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.cyclorama/index.json",
+        "vendor": "Zero Density"
+    },
+    {
+        "name": "zd.utilities",
+        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.utilities/index.json",
         "vendor": "Zero Density"
     }
 ]
