@@ -21,11 +21,6 @@
         "vendor": "MediaZ"
     },
     {
-        "name": "mz.ML.CNN",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.ML.CNN/index.json",
-        "vendor": "MediaZ"
-    },
-    {
         "name": "zd.realitykeyer",
         "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.realitykeyer/index.json",
         "vendor": "Zero Density"
