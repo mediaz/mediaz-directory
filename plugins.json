@@ -1,29 +1,28 @@
 [
     {
-        "name": "mz.filters",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.filters/index.json",
-        "vendor": "MediaZ"
+        "name": "nos.filters",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.filters/index.json",
+        "vendor": "Nodos"
     },
     {
-        "name": "mz.math",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.math/index.json",
-        "vendor": "MediaZ"
+        "name": "nos.math",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.math/index.json",
+        "vendor": "Nodos"
     },
     {
-        "name": "mz.utilities",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.utilities/index.json",
-        "vendor": "MediaZ"
+        "name": "nos.utilities",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.utilities/index.json",
+        "vendor": "Nodos"
     },
     {
-        "name": "AJA",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/AJA/index.json",
-        "production_version": "0.1.0.b72",
-        "vendor": "MediaZ"
+        "name": "nos.aja",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.aja/index.json",
+        "vendor": "Nodos"
     },
     {
-        "name": "mz.WebRTC",
-        "url": "https://raw.githubusercontent.com/mediaz/plugins-releases/main/mz.WebRTC/index.json",
-        "vendor": "MediaZ"
+        "name": "nos.WebRTC",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.WebRTC/index.json",
+        "vendor": "Nodos"
     },
     {
         "name": "zd.realitykeyer",
