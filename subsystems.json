@@ -3,5 +3,10 @@
         "name": "nos.sys.vulkan",
         "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.vulkan/index.json",
         "vendor": "Nodos"
+    },
+    {
+        "name": "nos.sys.shaderc",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.shaderc/index.json",
+        "vendor": "Nodos"
     }
 ]
