@@ -27,27 +27,37 @@
     },
     {
         "name": "zd.realitykeyer",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.realitykeyer/index.json",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
         "vendor": "Zero Density"
     },
     {
         "name": "zd.track",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.track/index.json",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.track.index.json",
         "vendor": "Zero Density"
     },
     {
         "name": "zd.lens",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.lens/index.json",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.lens.index.json",
         "vendor": "Zero Density"
     },
     {
         "name": "zd.cyclorama",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.cyclorama/index.json",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.cyclorama.index.json",
         "vendor": "Zero Density"
     },
     {
         "name": "zd.utilities",
-        "url": "https://raw.githubusercontent.com/zerodensity/mediaz-plugins-releases/main/zd.utilities/index.json",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.utilities.index.json",
+        "vendor": "Zero Density"
+    },
+	{
+        "name": "zd.xrtools",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.xrtools.index.json",
+        "vendor": "Zero Density"
+    },
+	{
+        "name": "zd.mediaplayer",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.mediaplayer.index.json",
         "vendor": "Zero Density"
     }
 ]
