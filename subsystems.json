@@ -8,5 +8,30 @@
         "name": "nos.sys.shaderc",
         "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.shaderc/index.json",
         "vendor": "Nodos"
+    },
+    {
+        "name": "nos.sys.cuda",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.cuda/index.json",
+        "vendor": "Nodos"
+    },
+    {
+        "name": "nos.sys.cuda.deps",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.cuda.deps/index.json",
+        "vendor": "NVIDIA"
+    },
+    {
+        "name": "nos.sys.ai",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.ai/index.json",
+        "vendor": "Nodos"
+    },
+    {
+        "name": "nos.sys.ai.onnxdeps",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.ai.onnxdeps/index.json",
+        "vendor": "Microsoft"
+    },
+    {
+        "name": "nos.sys.tensor",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.tensor/index.json",
+        "vendor": "Nodos"
     }
 ]
