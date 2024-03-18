@@ -25,6 +25,21 @@
         "vendor": "Nodos"
     },
     {
+        "name": "nos.Interop",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.Interop/index.json",
+        "vendor": "Nodos"
+    },
+    {
+        "name": "nos.ML.ONNX",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.ML.ONNX/index.json",
+        "vendor": "Nodos"
+    },
+    {
+        "name": "nos.ML.Tensors",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.ML.Tensors/index.json",
+        "vendor": "Nodos"
+    },
+    {
         "name": "zd.realitykeyer",
         "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
         "vendor": "Zero Density"
