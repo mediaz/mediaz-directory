@@ -40,6 +40,11 @@
         "vendor": "Nodos"
     },
     {
+        "name": "nos.AI.ModelNodes",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.AI.ModelNodes/index.json",
+        "vendor": "Nodos"
+    },
+    {
         "name": "zd.realitykeyer",
         "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
         "vendor": "Zero Density"
