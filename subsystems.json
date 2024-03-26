@@ -33,5 +33,10 @@
         "name": "nos.sys.tensor",
         "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.tensor/index.json",
         "vendor": "Nodos"
+    },
+    {
+        "name": "nos.sys.ai.models.rmbg",
+        "url": "https://raw.githubusercontent.com/mediaz/modules-releases/main/nos.sys.ai.models.rmbg/index.json",
+        "vendor": "Nodos"
     }
 ]
